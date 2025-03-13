@@ -1,5 +1,3 @@
-![Screenshot 2025-03-14 001507](https://github.com/user-attachments/assets/79cd8b3c-6968-4b4c-b923-09f3f3abd132)# 🚀 Network Packet Analyzer
-
 ## Overview
 The Network Packet Analyzer is a GUI-based tool that captures and analyzes network traffic in real time. Built using Python, Scapy, and Tkinter, it allows users to filter packets by protocol (TCP, UDP, ICMP) and includes a basic intrusion detection system for detecting suspicious activity.
 
@@ -13,9 +11,7 @@ With a modern UI, real-time packet logging, and filtering capabilities, this too
 ✅ **Start/Stop Sniffing** – Control sniffing with buttons  
 
 ## 📸 Screenshot
-([Uploading Screenshot 2025-03-14 001507.png…]()
-)
-)
+![Screenshot 2025-03-14 001507](https://github.com/user-attachments/assets/79cd8b3c-6968-4b4c-b923-09f3f3abd132)# 🚀 Network Packet Analyzer
 
 ## 🔧 Installation
 1. **Clone this repository:**
